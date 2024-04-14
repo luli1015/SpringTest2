@@ -7,5 +7,6 @@ public class runA {
     public static void main(String[] args) {
         System.out.println("Hello World");
         System.out.println("Hello WorlFFFdFFFF");
+        System.out.println("Hello BBB");
     }
 }
