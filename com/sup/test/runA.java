@@ -9,5 +9,7 @@ public class runA {
         System.out.println("Hello WorlAAAdFFFF");
         System.out.println("Hello BB B");
         System.out.println("Hello CCC");
+
+        System.out.println("I'm test2");
     }
 }
